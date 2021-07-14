@@ -1,0 +1,13 @@
+global:
+  type: size
+  category: typography
+
+props:
+  - name: font-weight-bold
+    value: 700
+
+  - name: font-weight-medium
+    value: 600
+
+  - name: font-weight-regular
+    value: 400

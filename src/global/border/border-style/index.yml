@@ -1,0 +1,10 @@
+global:
+ type: border
+ category: border
+
+props:
+ - name: border-style-none
+   value: none
+
+ - name: border-style-solid
+   value: solid

@@ -1,0 +1,16 @@
+global:
+  type: size
+  category: typography
+
+props:
+  - name: line-height-xs
+    value: 100%
+
+  - name: line-height-sm
+    value: 120%
+
+  - name: line-height-md
+    value: 150%
+  
+  - name: line-height-lg
+    value: 200%

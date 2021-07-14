@@ -1,0 +1,21 @@
+---
+global:
+  type: unit
+  category: spacing
+
+props:
+  - name: spacing-xs
+    value: '8px'
+
+  - name: spacing-sm
+    value: '16px'
+
+  - name: spacing-md
+    value: '24px'
+
+  - name: spacing-lg
+    value: '32px'
+
+  - name: spacing-xl
+    value: '40px'
+

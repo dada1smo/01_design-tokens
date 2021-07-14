@@ -1,0 +1,19 @@
+global:
+ type: color
+ category: color
+
+props:
+ - name: color-primary-darkest
+   value: '#ab171e'
+
+ - name: color-primary-dark
+   value: '#c11d24'
+
+ - name: color-primary-medium
+   value: '#e60023'
+
+ - name: color-primary-light
+   value: '#ff5247'
+
+ - name: color-primary-lightest
+   value: '#ec7a71'

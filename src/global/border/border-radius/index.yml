@@ -1,0 +1,22 @@
+global:
+ type: border
+ category: border
+
+props:
+ - name: border-radius-none
+   value: 0px
+
+ - name: border-style-sm
+   value: 8px
+
+ - name: border-style-md
+   value: 16px
+
+ - name: border-style-lg
+   value: 24px
+
+ - name: border-style-pill
+   value: 500px
+
+ - name: border-style-circular
+   value: 50%

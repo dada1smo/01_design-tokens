@@ -1,0 +1,16 @@
+global:
+  type: size
+  category: typography
+
+props:
+  - name: font-size-xs
+    value: 8px
+
+  - name: font-size-sm
+    value: 16px
+
+  - name: font-size-md
+    value: 24px
+
+  - name: font-size-lg
+    value: 32px

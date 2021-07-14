@@ -1,0 +1,7 @@
+global:
+  type: string
+  category: typography
+
+props:
+  - name: font-family-highlight
+    value: Roboto

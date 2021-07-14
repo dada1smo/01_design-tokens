@@ -1,0 +1,19 @@
+global:
+ type: color
+ category: color
+
+props:
+  - name: color-neutral-01
+    value: '#000000'
+ 
+  - name: color-neutral-02
+    value: '#70747B'
+    
+  - name: color-neutral-03
+    value: '#A6AAAF'
+
+  - name: color-neutral-04
+    value: '#E4E5E7'
+
+  - name: color-neutral-05
+    value: '#FFFFFF'
